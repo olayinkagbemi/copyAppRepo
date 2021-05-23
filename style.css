@@ -1,0 +1,47 @@
+*{
+    font-family: 'bai jamjuree', sans-serif;
+    text-decoration: none
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color: #4b545c;
+}
+
+p{
+    color: grey !important;
+}
+
+a{
+    color: white;
+}
+
+i{
+    font-size: 3rem;
+}
+
+button{
+    box-shadow: ipx 5px 10px grey;
+}
+
+.jumbotron{
+    background-image: url(./images/download\ 2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    object-fit: contain;
+}
+
+.cc-container{
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.cc-flex{
+    flex: 1;
+}
